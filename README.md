@@ -19,7 +19,7 @@ Note: You can determine whether these features are on or off.
 
 ## Run Yourself
 ### Powershell
-The set of powershell commands is for installing **everything** you need to run the bot yourself. (only run this if you have nothing installed)
+The set of powershell commands is for installing **everything** you need to run the bot yourself. (only run this if you have nothing installed)                   
 First open up powershell as **administrator**                                                                                                                     
 Click [here](https://raw.githubusercontent.com/dehoisted/Astral/main/install_all.ps1) for the full powershell command.                                                                      
 Then, just copy and paste in PS then press enter.
