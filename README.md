@@ -19,7 +19,7 @@ Note: You can determine whether these features are on or off.
 
 ## Run Yourself
 ### Powershell
-The set of powershell commands is for installing **everything** you need to run the bot yourself. (only run this if you have nothing installed)                   
+The set of powershell commands is for installing **everything** you need to run the bot yourself. (only run if you have nothing installed yet)                   
 First open up powershell as **administrator**                                                                                                                     
 Click [here](https://raw.githubusercontent.com/dehoisted/Astral/main/install_all.ps1) for the full powershell command.                                                                      
 Then, just copy and paste in PS then press enter.
@@ -31,5 +31,5 @@ You can view/download the latest release [here](https://github.com/dehoisted/Ast
 
 ## Notes
 The source code was made to be configured & extended upon, so feel free to do so.                                                                                  
-Also, the bot will be running **24/7**, you can rely on it.                                                                                                       
+Also, the bot will be running **24/7**; you can rely on it.                                                                                                       
 Full bot invite link: https://discord.com/api/oauth2/authorize?client_id=878772043884158977&permissions=8&scope=bot
