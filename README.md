@@ -11,7 +11,7 @@ Note: You can determine whether these features are on or off.
 - **Anti Invite** - Deletes said message
 - **Anti Raid** - Bans said user
 - **Logging Data** - Logs ID's of members who join & leave in a file for current server
-- **Protected Commands** - Only members with valid permissions may use given command.
+- **Protected Commands** - Only members with valid permissions may use the given command.
 - **Other Basic/Useful Commands** - See all [here](https://github.com/dehoisted/Astral/blob/main/commands.md)
 
 ## Dependencies
