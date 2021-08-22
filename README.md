@@ -26,7 +26,7 @@ Then, just copy and paste in PS then press enter.
 ### Release
 A more straightforward way to run Astral yourself would be downloading the latest release.                                                                                               
 The latest release has everything you need for running the bot yourself.                                                                                        
-All you need to do is follow the instructions inside of "readme.txt".
+All you need to do is follow the instructions inside of "readme.txt".                                                                                             
 You can view/download the latest release [here](https://github.com/dehoisted/Astral/releases)
 
 ## Notes
