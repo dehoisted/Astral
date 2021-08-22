@@ -10,7 +10,7 @@ Note: You can determine whether these features are on or off.
 - **Word Blacklist** - Deletes said message
 - **Anti Invite** - Deletes said message
 - **Anti Raid** - Bans said user
-- **Logging Data** - ID's of members who join & leave in a file
+- **Logging Data** - Logs ID's of members who join & leave in a file for current server
 - **Other Basic/Useful Commands** - See all [here](https://github.com/dehoisted/Astral/blob/main/commands.md)
 
 ## Dependencies
