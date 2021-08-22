@@ -30,7 +30,7 @@ The latest release has everything you need for running the bot yourself.
 All you need to do is follow the instructions inside of "readme.txt".                                                                                             
 You can view/download the latest release [here](https://github.com/dehoisted/Astral/releases)
 
-## Notes
+## Extra Info
 The source code was made to be configured & extended upon, so feel free to do so.                                                                                  
 Also, the bot will be running **24/7**; you can rely on it.                                                                                                       
 Full bot invite link: https://discord.com/api/oauth2/authorize?client_id=878772043884158977&permissions=8&scope=bot
