@@ -11,9 +11,9 @@ return {
 	{ name = "member-count", alias = "membercount", desc = "Gives you the amount of members currently in the server"},
 	{ name = "purge", desc = "Purges the amount of messages you pass in (number)"},
 	-- Moderation
-	{ name = "word-blacklist", desc = "Word blacklist automatically deletes words that would get your discord server terminated\nDoing the command will switch it on or off."},
-	{ name = "anti-invite", desc = "Automatically deletes messages that have an invite in them\nDoing the command will switch it on or off."},
-	{ name = "anti-raid", desc = "Auto bans users with raid-like names, also bans users who join if they have no profile picture\nDoing the command will switch it on or off."},
+	{ name = "word-blacklist", desc = "Word blacklist automatically deletes words that would get your discord server terminated\nRunning the command will switch it on or off."},
+	{ name = "anti-invite", desc = "Automatically deletes messages that have an invite in them\nRunning the command will switch it on or off."},
+	{ name = "anti-raid", desc = "Auto bans users with raid-like names, also bans users who join if they have no profile picture\nRunning the command will switch it on or off."},
 	-- Logs (seperate embed)
 	{ name = "logs", desc = "Gives help & commands concerning logs"},
 	{ name = "start-logs", desc = "Starts file logging of members who join & leave"},
