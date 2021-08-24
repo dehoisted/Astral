@@ -19,7 +19,7 @@ Note: You can determine whether these features are on or off.
 - [Discordia](https://github.com/SinisterRectus/Discordia/) - Lua Discord API Library used. 
 
 ## Run Yourself
-Astral was made with the intent to be used on windows & linux.
+Astral was made with the intent to be able to be ran on both windows & linux.
 ### Powershell
 The set of powershell commands is for installing **everything** you need to run the bot yourself. (only run if you have nothing installed yet)                   
 First open up powershell as **administrator**                                                                                                                     
