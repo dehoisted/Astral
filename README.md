@@ -31,6 +31,9 @@ The latest release has everything you need for running the bot yourself.
 All you need to do is follow the instructions inside of "readme.txt".                                                                                             
 You can view/download the latest release [here](https://github.com/dehoisted/Astral/releases)
 
+## Issues
+If you have encounter an issue/error using or running the bot, please make an issue [here](https://github.com/dehoisted/Astral/issues).
+
 ## Extra Info
 The source code was made to be configured & extended upon, so feel free to do so.                                                                                  
 Also, the bot will be running **24/7**; you can rely on it.                                                                                                       
