@@ -18,9 +18,10 @@ return {
       ex_str1 = "child porn",
       ex_str2 = "child-porn",
       ex_str3 = "address:",
-      ex_str4 = "ip: ",
+      ex_str4 = "ip:",
       ex_str5 = "raping",
       ex_str6 = " cp ",
       ex_str7 = "jerk off",
+      ex_str8 = "grabify.link",
   },
 }
