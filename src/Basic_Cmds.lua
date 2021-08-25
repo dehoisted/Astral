@@ -123,12 +123,19 @@ end
 
 -- Purge cmd
 function Basic_Cmds:purge(message, args, prefix)
-	if args[2] == nil then message:reply("Pass in the amount of messages you want to purge. (number)") end
+    -- Sec
+	if args[2] == nil then message:reply("Pass in the amount of messages you want to purge. (number)") return end
     local member = message.guild:getMember(message.author.id)
     if not member:hasPermission("manageMessages") then message:reply("You need manage messages perms.") return end
-    local number = tonumber(args[2]) ~= nil
-    if not number then message:reply("You have to pass in a number.") return end
-	local messages = message.channel:getMessages(args[2])
+    local num = tonumber(args[2]) ~= nil
+    if not num then message:reply("You have to pass in a number.") return end
+    local number = tonumber(args[2])
+    if number >= 50 then message:reply("Too big of a number was passed.") return end
+    -- Purge
+    local messages
+	local stat, res = pcall(function()
+        messages = message.channel:getMessages(args[2])
+    end)
     local msgs = messages:toArray(function(msg)
         if msg.content:find(prefix) or msg.author.bot then
            return true end
