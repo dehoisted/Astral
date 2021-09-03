@@ -1,5 +1,5 @@
 local Logs = {
-    OS = require("Get_OS"),
+    OS = require("./Get_OS"),
     --**Nonconstant** Var
     logging = false, -- -> At runtime, this value will be equal to the "Logging" value in Settings.lua
     guild_id = "",
