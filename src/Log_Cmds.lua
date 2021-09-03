@@ -3,7 +3,7 @@ local Log_Cmds = {
     success_emoji = "✅",
     error_emoji = "❌",
     permission_needed = "administrator", --https://github.com/SinisterRectus/Discordia/wiki/Enumerations
-    Logs = require("Logs"),
+    Logs = require("./Logs"),
 }
 
 local function CheckPerms(message, color_code, permission, error_emoji)
