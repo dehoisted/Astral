@@ -3,7 +3,7 @@
 Made using Discordia and the Luvit runtime environment.                                                                                                      
 Astrals main purpose is for **auto moderation** and **logging data**.                                                                                             
 At the same time, Astral comes with some basic commands for everyday usage.
-### [Bot Invite Here](https://discord.com/api/oauth2/authorize?client_id=878772043884158977&permissions=8&scope=bot)
+### [Bot Invite Here](https://discord.com/api/oauth2/authorize?client_id=884183389924634674&permissions=8&scope=bot)
 
 ## Features
 Note: You can determine whether these features are on or off.
@@ -37,4 +37,4 @@ If you have encounter an issue/error using or running the bot, please make an is
 ## Extra Info
 The source code was made to be configured & extended upon, so feel free to do so.                                                                                  
 Also, the bot will be running **24/7**; you can rely on it.                                                                                                       
-Custom bot invite: https://discord.com/api/oauth2/authorize?client_id=878772043884158977&permissions=122340123895&scope=bot
+Custom permission bot invite: https://discord.com/api/oauth2/authorize?client_id=884183389924634674&permissions=105226339255&scope=bot
